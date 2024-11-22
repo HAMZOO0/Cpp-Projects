@@ -1,5 +1,4 @@
 ## 1 : Snake Game 
-![image](https://github.com/HAMZOO0/Cpp-Plus-Lib-Projects/assets/98114762/f3f6cc7d-ca57-4fcd-9bce-1115cc615733)
-![image](https://github.com/HAMZOO0/Cpp-Plus-Lib-Projects/assets/98114762/c02b0626-c559-488c-8fb1-347acc67bce8)
-
-![image](https://github.com/HAMZOO0/Cpp-Plus-Lib-Projects/assets/98114762/10664fd4-1524-4155-acb8-bb4ed42139f8)
+<img width="363" alt="image" src="https://github.com/user-attachments/assets/10657b2c-8afe-453f-b9ea-88f4a7467c67">
+<img width="399" alt="image" src="https://github.com/user-attachments/assets/280524c7-9c4c-45e7-b073-09cde2a5c9b1">
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/18d02dad-8bb1-4cd7-893d-a415e79461af">
